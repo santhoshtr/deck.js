@@ -1,0 +1,9 @@
+.deck-container .deck-language {
+	position: absolute;
+	z-index: 4;
+	bottom: 10px;
+	left: 0;
+	height: 20px;
+	float: left;
+	font-size: 8pt;
+}
